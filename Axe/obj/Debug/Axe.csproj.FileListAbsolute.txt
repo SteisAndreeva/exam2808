@@ -1,0 +1,6 @@
+C:\Users\Stela\Documents\Visual Studio 2015\Projects\Exam2808\Axe\bin\Debug\Axe.exe.config
+C:\Users\Stela\Documents\Visual Studio 2015\Projects\Exam2808\Axe\bin\Debug\Axe.exe
+C:\Users\Stela\Documents\Visual Studio 2015\Projects\Exam2808\Axe\bin\Debug\Axe.pdb
+C:\Users\Stela\Documents\Visual Studio 2015\Projects\Exam2808\Axe\obj\Debug\Axe.csprojResolveAssemblyReference.cache
+C:\Users\Stela\Documents\Visual Studio 2015\Projects\Exam2808\Axe\obj\Debug\Axe.exe
+C:\Users\Stela\Documents\Visual Studio 2015\Projects\Exam2808\Axe\obj\Debug\Axe.pdb

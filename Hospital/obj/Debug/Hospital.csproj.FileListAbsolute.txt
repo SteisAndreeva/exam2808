@@ -1,0 +1,6 @@
+c:\users\stela\documents\visual studio 2015\Projects\Exam2808\Hospital\bin\Debug\Hospital.exe.config
+c:\users\stela\documents\visual studio 2015\Projects\Exam2808\Hospital\bin\Debug\Hospital.exe
+c:\users\stela\documents\visual studio 2015\Projects\Exam2808\Hospital\bin\Debug\Hospital.pdb
+c:\users\stela\documents\visual studio 2015\Projects\Exam2808\Hospital\obj\Debug\Hospital.exe
+c:\users\stela\documents\visual studio 2015\Projects\Exam2808\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Stela\Documents\Visual Studio 2015\Projects\Exam2808\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
